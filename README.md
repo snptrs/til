@@ -9,3 +9,7 @@ h/t [Josh Branchaud](https://github.com/jbranchaud/til) and [many others](https:
 ### RSpec
 
 - [Better output formatting](categories/rspec/better-rspec-output-formatting.md)
+
+### Terminal
+
+- [Alert when command finishes running in iTerm2](categories/terminal/iterm2-alert-when-command-finishes.md)
