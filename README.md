@@ -8,4 +8,4 @@ h/t [Josh Branchaud](https://github.com/jbranchaud/til) and [many others](https:
 
 ### RSpec
 
-- [Better output formatting](categories/rspec/better-output-formatting.md)
+- [Better output formatting](categories/rspec/better-rspec-output-formatting.md)
