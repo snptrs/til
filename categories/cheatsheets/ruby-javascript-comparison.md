@@ -32,9 +32,12 @@ Ruby and JS are both [weakly typed](https://en.wikipedia.org/wiki/Strong_and_wea
 
 - [JavaScript data types and data structures](http://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
 
-<!-- # TODO -->
+<!-- TODO -->
 
 ## Strings
+
+- [Useful string methods - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Useful_string_methods)
+- [Handling text — strings in JavaScript - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Strings)
 
 ### Concatenating strings
 
@@ -51,3 +54,10 @@ Can also concatenate using `+`:
 | `puts "Hello " + name` | `console.log("Hello " + name);` |
 
 
+## Useful reference
+
+- [Ruby vs. Javascript](https://wdi-sg.github.io/gitbook-2018/06-ruby-rails/ruby-intro/ruby-js.html)
+- [Modern JavaScript Cheatsheet | Modern JS Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/)
+- [JavaScript Fundamentals](https://javascript.info/first-steps)
+- [Data types in Ruby](https://www.educative.io/answers/data-types-in-ruby)
+- [5 Way to Append Item to Array in JavaScript | SamanthaMing.com](https://www.samanthaming.com/tidbits/87-5-ways-to-append-item-to-array/)
