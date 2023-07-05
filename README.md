@@ -2,7 +2,7 @@
 
 A collection of notes, code snippets and tidbits that I've found useful.
 
-## TILs
+## Categories
 
 ### MongoDB
 - [mongosh](categories/databases/mongosh.md)
