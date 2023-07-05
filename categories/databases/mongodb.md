@@ -1,4 +1,4 @@
-# mongosh
+# MongoDB
 
 mongosh is an interactive MongoDB shell.
 
