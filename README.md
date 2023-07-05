@@ -5,7 +5,7 @@ A collection of notes, code snippets and tidbits that I've found useful.
 ## Categories
 
 ### MongoDB
-- [mongosh](categories/databases/mongosh.md)
+- [MongoDB](categories/databases/mongodb.md)
 
 ### RSpec
 
