@@ -6,6 +6,7 @@ A collection of notes, code snippets and tidbits that I've found useful.
 
 ### MongoDB
 - [MongoDB](categories/databases/mongodb.md)
+- [Mongoose](categories/databases/mongoose.md)
 
 ### RSpec
 
