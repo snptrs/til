@@ -6,6 +6,7 @@ A collection of notes, code snippets and tidbits that I've found useful.
 
 ### JavaScript
 - [Nullish coalescing operator (??)](categories/javascript/nullish-coalescing-operator.md)
+- [Spread and rest](categories/javascript/spread-rest.md)
 
 ### MongoDB
 - [MongoDB](categories/databases/mongodb.md)
