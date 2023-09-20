@@ -19,4 +19,3 @@ A collection of notes, code snippets and tidbits that I've found useful.
 ### Terminal
 
 - [Alert when command finishes running in iTerm2](categories/terminal/iterm2-alert-when-command-finishes.md)
-
