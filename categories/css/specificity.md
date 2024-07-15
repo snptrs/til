@@ -20,26 +20,33 @@ Where there are multiple selectors with an equal specificity, the cascade order 
 
 ## Examples
 
-```css
-/* This is from CSS: The Definitive Guide, Fifth edition  */
+These examples are from _CSS: The Definitive Guide, Fifth edition_.
 
+```css
 h1 {
   color: red;
 } /* 0,0,1 */
+
 body h1 {
   color: green;
 } /* 0,0,2 (winner)*/
+```
 
+```css
 h2.grape {
   color: purple;
 } /* 0,1,1 (winner) */
+
 h2 {
   color: silver;
 } /* 0,0,1 */
+```
 
+```css
 html > body table tr[id="totals"] td ul > li {
   color: maroon;
 } /* 0,1,7 */
+
 li#answer {
   color: navy;
 } /* 1,0,1 (winner) */
