@@ -54,7 +54,7 @@ li#answer {
 
 ## Calculating specificity
 
-This [specificty calculator](https://specificity.keegan.st) lets you enter multiple selectors and then sort by specificity.
+This [specificity calculator](https://specificity.keegan.st) lets you enter multiple selectors and then sort by specificity.
 
 ## References
 
