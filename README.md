@@ -18,9 +18,9 @@ A collection of notes, code snippets and tidbits that I've found useful.
 - [MongoDB](categories/databases/mongodb.md)
 - [Mongoose](categories/databases/mongoose.md)
 
-### RSpec
+### Ruby
 
-- [Better output formatting](categories/rspec/better-rspec-output-formatting.md)
+- [Better RSpec output formatting](categories/ruby/better-rspec-output-formatting.md)
 
 ### Terminal
 
