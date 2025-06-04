@@ -4,6 +4,10 @@ A collection of notes, code snippets and tidbits that I've found useful.
 
 ## Categories
 
+### Command line/shell
+
+- [Sorting and grouping a list of values](/categories/commandline/sorting-and-grouping.md)
+
 ### CSS
 
 - [Selector specificity](/categories/css/specificity.md)
