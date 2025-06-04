@@ -18,7 +18,7 @@ Mariano
 
 ## Sorting randomly
 
-`sort -R` and `shuf` will both randomly sort a list. It seems that `shuf` is more efficient though,[^1][^2] so we may as well use that.
+`sort -R` and `shuf` will both randomly sort a list. It seems that `shuf` is more efficient though, so we may as well use that.[^1][^2]
 
 ```bash
 shuf names.txt
