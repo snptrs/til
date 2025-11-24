@@ -1,6 +1,6 @@
 # Archived Keyboard Maestro macros
 
-I've been clearing out some old Keyboard Maestro macros, I'm archiving a few here in case they're useful as a reference at some point.
+I've been clearing out some old Keyboard Maestro macros. I'm archiving a few here in case they're useful as a reference at some point.
 
 ## Get YouTube channel RSS
 
