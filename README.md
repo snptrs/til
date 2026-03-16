@@ -16,7 +16,7 @@ A collection of notes, code snippets and tidbits that I've found useful.
 
 - [Nullish coalescing operator (??)](categories/javascript/nullish-coalescing-operator.md)
 - [Spread and rest](categories/javascript/spread-rest.md)
-- [Tidying up node_modules](categories/javascript/remove-node-modules.md)
+- [Tidying up node\_modules](categories/javascript/remove-node-modules.md)
 
 ### Mac automation
 
