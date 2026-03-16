@@ -12,11 +12,15 @@ A collection of notes, code snippets and tidbits that I've found useful.
 
 - [Selector specificity](/categories/css/specificity.md)
 
+### Git
+
+- [Git workflows](categories/git/git-workflows.md)
+
 ### JavaScript
 
 - [Nullish coalescing operator (??)](categories/javascript/nullish-coalescing-operator.md)
 - [Spread and rest](categories/javascript/spread-rest.md)
-- [Tidying up node\_modules](categories/javascript/remove-node-modules.md)
+- [Tidying up node modules](categories/javascript/remove-node-modules.md)
 
 ### Mac automation
 
