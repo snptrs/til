@@ -2,7 +2,7 @@
 
 ### Dependent feature branch rebase workflow
 
-> **Scenario:** You’re working on a feature that needs backend and frontend changes in a monorepo. You want to keep both parts separate so you can do separate PRs. You branch backend off of main and implement the changes. You need the backend features to implement the frontend features, so you branch frontend off of backend. If you make any other changes to backend, you need to keep frontend in sync.
+> **Scenario:** You're implementing a feature in a monorepo with interdependent backend and frontend changes. You create separate branches for each (frontend branched off backend) to enable independent PRs. This workflow keeps the frontend branch automatically synced with backend changes through rebasing, ensuring clean commit history and avoiding merge conflicts when both PRs are merged.
 
 1. Branch `feature/backend` off of main.
 2. Branch `feature/frontend` off of `feature/backend`.

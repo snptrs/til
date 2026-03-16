@@ -14,7 +14,7 @@ A collection of notes, code snippets and tidbits that I've found useful.
 
 ### Git
 
-- [Git workflows](categories/git/workflows.md)
+- [Workflows](categories/git/workflows.md)
 
 ### JavaScript
 
