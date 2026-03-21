@@ -5,6 +5,7 @@ A collection of notes, code snippets and tidbits that I've found useful.
 ## Categories
 
 ### AI
+
 - [Install and use whisper.cpp](/categories/ai/whisper-cpp.md)
 
 ### Command line/shell
@@ -28,6 +29,10 @@ A collection of notes, code snippets and tidbits that I've found useful.
 ### Mac automation
 
 - [Keyboard Maestro archived macros](categories/mac-automation/keyboard-maestro-archive.md)
+
+### Media
+
+- [Extracting the audio from a YouTube video](/categories/media/extract-youtube-audio.md)
 
 ### MongoDB
 
