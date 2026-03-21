@@ -4,6 +4,9 @@ A collection of notes, code snippets and tidbits that I've found useful.
 
 ## Categories
 
+### AI
+- [Install and use whisper.cpp](/categories/ai/whisper-cpp.md)
+
 ### Command line/shell
 
 - [Sorting and grouping a list of values](/categories/commandline/sorting-and-grouping.md)
